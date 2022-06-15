@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "name": "Brian",
+      "id": 1,
+      "title": "FS Dev"
+    },
+    {
+      "name": "Hasan",
+      "id": 2,
+      "title": "BE Dev"
+    },
+    {
+      "name": "Koral",
+      "title": "FS Dev",
+      "id": 4
+    }
+  ],
+  "projects": [
+    {
+      "projectID": 20,
+      "description": "json files",
+      "id": 1
+    },
+    {
+      "projectID": 21,
+      "description": "fetchApi process",
+      "id": 2
+    },
+    {
+      "id": 10,
+      "projectID": 120,
+      "description": "POST method2"
+    }
+  ]
+}
